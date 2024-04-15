@@ -2,14 +2,14 @@
 
 
 <h2>Description</h2>
-This project documents the utilization of John the Ripper, a password-cracking tool, to decrypt a SHA-1 encrypted password list. Through methodical application of diverse word lists and rule sets, including masks tailored to common password patterns. This project is supposed to simulate brute-force and dictionary attacks techniques that are used in simple penetration tesing. 
+This project documents the utilization of John the Ripper, a password-cracking tool, to decrypt a SHA-1 encrypted password list. Through structured application of diverse word lists and rule sets, including masks tailored to common password patterns. This project is supposed to simulate brute-force and dictionary attacks techniques that are used in simple penetration tesing. 
 <br />
 
 <h2>Utilities Used</h2>
 
 - <b>John the Ripper</b> 
 - <b>Word List (Provided by CodePath)</b>
-- <b>Password List (Provided by CodePath)</b> 
+- <b>Hashed Password List (Provided by CodePath) </b> 
 
 <h2>Environments Used </h2>
 
@@ -18,33 +18,27 @@ This project documents the utilization of John the Ripper, a password-cracking t
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Command To Utilize Wordlist:<br/>
-<br/>
+Using Wordlist mode:<br/>
 <img src="https://imgur.com/MVSpNmV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Utilizing this wordlist John the Ripper will search for passwords
 <br />
 <br />
 <br />
 Implemeting A Ruleset to search for leetspeak:  <br/>
-<br/>
 <img src="https://imgur.com/98jd0zQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
 Implemeting A Ruleset to search for shift toggle :  <br/>
-<br/>
 <img src="https://imgur.com/JYNRx80.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
 Count of Passwords Cracked:  <br/>
-<br/>
 <img src="https://imgur.com/pu67YAc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
 <br />
 <br />
 <br />

@@ -1,4 +1,4 @@
-<h1>Hashed Password Cracking Project</h1>
+<h1>Hashed Password Cracking Lab</h1>
 
 
 <h2>Description</h2>

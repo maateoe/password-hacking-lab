@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project documents the utilization of John the Ripper, a password-cracking tool, to decrypt a SHA-1 hashed password list. Through structured application of diverse word lists and rule sets, including masks tailored to common password patterns. This project is supposed to simulate brute-force and dictionary attacks techniques that are used in simple penetration tesing. 
+This project documents the utilization of John the Ripper, a password-cracking tool, to decrypt a SHA-1 hashed password list. Through structured application of diverse word lists and rule sets, including masks tailored to common password patterns. This project is supposed to simulate brute-force and dictionary attacks techniques that are used for simple password attacks. 
 <br />
 
 <h2>Utilities Used</h2>

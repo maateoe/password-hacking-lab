@@ -15,10 +15,10 @@ This project documents the utilization of John the Ripper, a password-cracking t
 
 - <b>Kali Linux</b>
 
-<h2>Project walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
-Using Wordlist mode:<br/>
+Using Wordlist Mode:<br/>
 <img src="https://imgur.com/5JJx4Av.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -30,13 +30,19 @@ Using Incremental mode:<br/>
 <br />
 <br />
 <br />
-Implemeting A Ruleset to search for leetspeak:  <br/>
+Incremental Mode With Password Length Parameters:<br/>
+<img src="https://imgur.com/74vTEVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Implemeting A Ruleset- l33tspeak:  <br/>
 <img src="https://imgur.com/FgoEvMZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-Implemeting A Ruleset to search for shift toggle :  <br/>
+Implemeting A Ruleset- shiftToggle:  <br/>
 <img src="https://imgur.com/x9VtWRn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

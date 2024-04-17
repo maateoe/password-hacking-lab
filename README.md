@@ -19,19 +19,25 @@ This project documents the utilization of John the Ripper, a password-cracking t
 
 <p align="center">
 Using Wordlist mode:<br/>
-<img src="https://imgur.com/MVSpNmV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5JJx4Av.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Using Incremental mode:<br/>
+<img src="https://imgur.com/5DPCZuX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
 Implemeting A Ruleset to search for leetspeak:  <br/>
-<img src="https://imgur.com/98jd0zQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FgoEvMZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
 Implemeting A Ruleset to search for shift toggle :  <br/>
-<img src="https://imgur.com/JYNRx80.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/x9VtWRn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />

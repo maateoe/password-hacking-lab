@@ -67,7 +67,7 @@ To defeat users who use common words with minor variations (l33tspeak or case ch
 <li><b>ShiftToggle Rule:</b> Tests every case combination (e.g., 'admin', 'Admin').</li>
 </ul>
 <p align="left">
-<img src="https://imgur.com/3CcGbxM.png" height="70%" width="70%" alt="Rule-Based Mutation Execution"/>
+<img src="https://imgur.com/x9VtWRn.png" height="70%" width="70%" alt="Rule-Based Mutation Execution"/>
 </p>
 
 <br />

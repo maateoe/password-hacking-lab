@@ -84,7 +84,7 @@ After completing the attack vectors, I performed an audit of the <code>john.pot<
 
 <br />
 
-<h2>🛡️ Security Remediation & Recommendations</h2>
+<h2>Security Remediation & Recommendations</h2>
 <p>
 A security project is not complete without a mitigation plan. Based on the vulnerability of this dataset, I recommend the following:
 </p>
